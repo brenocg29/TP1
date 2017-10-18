@@ -31,6 +31,7 @@ public class Feed {
 	}
 	/**
 	 * Load more posts (number os posts per page
+	 *
 	 */
 	public void LoadMorePost() {
 		
