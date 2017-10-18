@@ -3,10 +3,10 @@ import back.Comrade;
 import back.JsonHandler;
 import back.Post;
 /**
- * 
  * @author Breno Chaves Gabrich
- * @author Gabriel Pires
  * @author Fernanda Ramalho
+ * @author Gabriel Pires
+ *
  *
  */
 public class Feed {
